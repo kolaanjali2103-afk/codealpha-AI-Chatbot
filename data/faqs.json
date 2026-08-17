@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "category": "Orders",
+    "question": "How do I track my order?",
+    "answer": "You can track your order by going to 'My Orders' in your account and clicking 'Track Package'. You will also receive tracking updates via email and SMS."
+  },
+  {
+    "id": 2,
+    "category": "Orders",
+    "question": "Where is my package right now?",
+    "answer": "You can track your order by going to 'My Orders' in your account and clicking 'Track Package'. You will also receive tracking updates via email and SMS."
+  },
+  {
+    "id": 3,
+    "category": "Orders",
+    "question": "How can I cancel my order?",
+    "answer": "You can cancel your order within 1 hour of placing it by going to 'My Orders' and selecting 'Cancel Order'. After that window, the order may already be processing and cannot be cancelled."
+  },
+  {
+    "id": 4,
+    "category": "Orders",
+    "question": "I want to change my delivery address after placing an order",
+    "answer": "You can update your delivery address within 1 hour of placing the order from the 'My Orders' section. Once the order has shipped, the address cannot be changed."
+  },
+  {
+    "id": 5,
+    "category": "Orders",
+    "question": "How do I know if my order was placed successfully?",
+    "answer": "Once your order is placed successfully, you will receive a confirmation email and SMS with your order ID and order summary."
+  },
+  {
+    "id": 6,
+    "category": "Orders",
+    "question": "Can I add more items to an order I already placed?",
+    "answer": "Unfortunately, items cannot be added to an existing order once it is placed. You will need to place a new order for the additional items."
+  },
+  {
+    "id": 7,
+    "category": "Payments",
+    "question": "What payment methods do you accept?",
+    "answer": "We accept credit cards, debit cards, UPI, net banking, and popular digital wallets. Cash on delivery is also available for select locations."
+  },
+  {
+    "id": 8,
+    "category": "Payments",
+    "question": "Is it safe to enter my card details on your website?",
+    "answer": "Yes, all payments are processed through secure, encrypted payment gateways and we do not store your full card details on our servers."
+  },
+  {
+    "id": 9,
+    "category": "Payments",
+    "question": "My payment failed but money was deducted from my account",
+    "answer": "If a payment fails after deduction, the amount is automatically refunded to your original payment method within 5-7 business days. Please contact support if it takes longer."
+  },
+  {
+    "id": 10,
+    "category": "Payments",
+    "question": "Do you offer cash on delivery?",
+    "answer": "Yes, cash on delivery is available for most locations. You can check availability by entering your pincode on the checkout page."
+  },
+  {
+    "id": 11,
+    "category": "Payments",
+    "question": "Can I pay in installments or EMI?",
+    "answer": "Yes, EMI options are available on select credit cards and for orders above a minimum amount. You can select the EMI option at checkout."
+  },
+  {
+    "id": 12,
+    "category": "Returns",
+    "question": "How do I return a product?",
+    "answer": "To return a product, go to 'My Orders', select the item, and click 'Return Item'. Choose a reason and schedule a pickup, or drop it at the nearest collection point."
+  },
+  {
+    "id": 13,
+    "category": "Returns",
+    "question": "What is your return policy?",
+    "answer": "Most products can be returned within 7 to 14 days of delivery, provided they are unused and in their original packaging. Some categories like innerwear and perishables are not eligible for return."
+  },
+  {
+    "id": 14,
+    "category": "Returns",
+    "question": "I received a damaged or defective product, what should I do?",
+    "answer": "We're sorry for the inconvenience. Please raise a return request within 48 hours of delivery with photos of the damaged item, and we will arrange a free replacement or refund."
+  },
+  {
+    "id": 15,
+    "category": "Returns",
+    "question": "How long does it take to get a refund after return?",
+    "answer": "Once the returned item is picked up and quality-checked, refunds are usually processed within 5-7 business days to your original payment method."
+  },
+  {
+    "id": 16,
+    "category": "Returns",
+    "question": "Can I exchange a product instead of returning it?",
+    "answer": "Yes, for eligible categories like clothing and footwear, you can choose 'Exchange' instead of 'Return' to swap the item for a different size or color."
+  },
+  {
+    "id": 17,
+    "category": "Shipping",
+    "question": "How long does delivery take?",
+    "answer": "Standard delivery usually takes 3-7 business days depending on your location. Express delivery, where available, takes 1-2 business days."
+  },
+  {
+    "id": 18,
+    "category": "Shipping",
+    "question": "Do you deliver internationally?",
+    "answer": "Currently we only deliver within the country. International shipping is not supported at this time, but we are working on expanding our services."
+  },
+  {
+    "id": 19,
+    "category": "Shipping",
+    "question": "Is delivery free?",
+    "answer": "Delivery is free for orders above a minimum cart value. For smaller orders, a small delivery fee is added and shown at checkout before payment."
+  },
+  {
+    "id": 20,
+    "category": "Shipping",
+    "question": "What if I am not available to receive my delivery?",
+    "answer": "If you are unavailable, our delivery partner will attempt delivery up to 3 times. You can also reschedule the delivery slot from the tracking page."
+  },
+  {
+    "id": 21,
+    "category": "Account",
+    "question": "How do I reset my password?",
+    "answer": "You can reset your password by clicking the 'Forgot Password' option on the login page and following the instructions sent to your registered email."
+  },
+  {
+    "id": 22,
+    "category": "Account",
+    "question": "I forgot my password and can't log in",
+    "answer": "You can reset your password by clicking the 'Forgot Password' option on the login page and following the instructions sent to your registered email."
+  },
+  {
+    "id": 23,
+    "category": "Account",
+    "question": "How do I create a new account?",
+    "answer": "You can create a new account by clicking 'Sign Up' on the homepage and entering your name, email address, and a password."
+  },
+  {
+    "id": 24,
+    "category": "Account",
+    "question": "How can I update my email address or phone number?",
+    "answer": "You can update your email address or phone number from the 'Profile Settings' page after logging into your account."
+  },
+  {
+    "id": 25,
+    "category": "Account",
+    "question": "How do I delete my account?",
+    "answer": "To delete your account, please contact our support team through the Help Center. Account deletion is permanent and cannot be undone."
+  },
+  {
+    "id": 26,
+    "category": "Discounts",
+    "question": "Do you have any ongoing discounts or offers?",
+    "answer": "Yes, ongoing offers are listed on our homepage banner and the 'Offers' page. You can also subscribe to our newsletter for exclusive deals."
+  },
+  {
+    "id": 27,
+    "category": "Discounts",
+    "question": "How do I apply a coupon code?",
+    "answer": "You can apply a coupon code on the checkout page in the 'Apply Coupon' box before making the payment. The discount will be reflected in your order total."
+  },
+  {
+    "id": 28,
+    "category": "Discounts",
+    "question": "Why is my coupon code not working?",
+    "answer": "Coupon codes may not work if they have expired, do not apply to the items in your cart, or if the minimum order value has not been met. Check the coupon's terms and conditions for details."
+  },
+  {
+    "id": 29,
+    "category": "Support",
+    "question": "How do I contact customer support?",
+    "answer": "You can contact customer support through the 'Help Center' chat, by emailing support@example.com, or by calling our helpline listed on the Contact Us page."
+  },
+  {
+    "id": 30,
+    "category": "Support",
+    "question": "What are your customer support working hours?",
+    "answer": "Our customer support team is available from 9 AM to 9 PM, seven days a week, including public holidays."
+  },
+  {
+    "id": 31,
+    "category": "Products",
+    "question": "How do I know my correct size before ordering clothes?",
+    "answer": "Each product page has a 'Size Chart' link with detailed measurements to help you choose the right fit before ordering."
+  },
+  {
+    "id": 32,
+    "category": "Products",
+    "question": "Are the product images an accurate representation of the actual product?",
+    "answer": "We try to ensure product images are as accurate as possible, but actual colors may vary slightly due to lighting and screen settings."
+  },
+  {
+    "id": 33,
+    "category": "Products",
+    "question": "How do I check if a product is in stock?",
+    "answer": "Product availability is shown on the product page. If an item is out of stock, you can click 'Notify Me' to get an alert when it's back."
+  },
+  {
+    "id": 34,
+    "category": "Warranty",
+    "question": "Does the product come with a warranty?",
+    "answer": "Warranty terms vary by product and are mentioned on the product detail page. Electronics typically come with a manufacturer warranty of 6 months to 1 year."
+  },
+  {
+    "id": 35,
+    "category": "Warranty",
+    "question": "How do I claim warranty for a faulty product?",
+    "answer": "To claim warranty, go to 'My Orders', select the product, and click 'Claim Warranty'. You may need to provide the invoice and describe the issue."
+  }
+]

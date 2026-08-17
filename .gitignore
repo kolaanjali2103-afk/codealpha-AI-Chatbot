@@ -1,0 +1,23 @@
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# NLTK downloaded data (re-downloaded automatically on first run)
+nltk_data/
+
+# Streamlit
+.streamlit/
+
+# OS / editor files
+.DS_Store
+.vscode/
+.idea/
+
+# Environment variables (if you add any later)
+.env
